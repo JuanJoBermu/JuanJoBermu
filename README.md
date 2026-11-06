@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:computer: **Ingeniero Electrónico**
+
+:pencil: **Generador de contenido**
+
+:eyeglasses: **Geek a lo que da**
+
+:oncoming_automobile: **Fan del cine**
+
+dog: **Papá perruno**
+
+### Vias de contacto
+
+![Website](https://img.shields.io/badge/youtube.com-up-green?style=for-the-badge)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/JuanJoBermu/JuanJoBermu)
+
