@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 :oncoming_automobile: **Fan del cine**
 
-dog: **Papá perruno**
+:dog: **Papá perruno**
 
 ### Vias de contacto
 
